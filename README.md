@@ -34,7 +34,7 @@ bundle install
 Программа использует браузер Firefox и инструмент Selenium. Для работы Selenium в Firefox, у вас должен быть установлен [geckodriver](https://github.com/mozilla/geckodriver)
 
 
-Для запуска программы наберите в консоле
+Для запуска программы наберите в терминале
 ```
 ruby main.rb
 ```
